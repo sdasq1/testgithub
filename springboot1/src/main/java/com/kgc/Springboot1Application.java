@@ -9,7 +9,7 @@ import org.springframework.context.annotation.PropertySource;
 public class Springboot1Application {
     //马儿 
     //真丑
-    //于跃海sb
+    //于跃海
     public static void main(String[] args) {
         SpringApplication.run(Springboot1Application.class, args);
     }
